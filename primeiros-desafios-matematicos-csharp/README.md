@@ -23,6 +23,10 @@ Exemplos de entrada | Exemplos de saída
 -30<br>10           | SOMA = -20<br>
 0<br>0              | SOMA = 0<br>
 
+#### Solução
+
+[Clique aqui para acessar código da solução](./SomaSimples)
+
 ## DDD
 
 ### Desafio
@@ -56,3 +60,8 @@ Imprima o nome da cidade correspondente ao DDD existente na entrada. Imprima DDD
 Exemplo de entrada | Exemplo de saída
 -------------------|-----------------
 11                 | Sao Paulo
+
+
+#### Solução
+
+[Clique aqui para acessar código da solução](./DDD)
