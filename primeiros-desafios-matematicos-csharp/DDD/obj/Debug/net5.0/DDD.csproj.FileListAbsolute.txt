@@ -1,0 +1,16 @@
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/bin/Debug/net5.0/DDD
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/bin/Debug/net5.0/DDD.deps.json
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/bin/Debug/net5.0/DDD.runtimeconfig.json
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/bin/Debug/net5.0/DDD.runtimeconfig.dev.json
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/bin/Debug/net5.0/DDD.dll
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/bin/Debug/net5.0/ref/DDD.dll
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/bin/Debug/net5.0/DDD.pdb
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/DDD.csproj.AssemblyReference.cache
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/DDD.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/DDD.AssemblyInfoInputs.cache
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/DDD.AssemblyInfo.cs
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/DDD.csproj.CoreCompileInputs.cache
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/DDD.dll
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/ref/DDD.dll
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/DDD.pdb
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/DDD/obj/Debug/net5.0/DDD.genruntimeconfig.cache

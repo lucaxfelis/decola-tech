@@ -1,0 +1,16 @@
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/bin/Debug/net5.0/SomaSimples
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/bin/Debug/net5.0/SomaSimples.deps.json
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/bin/Debug/net5.0/SomaSimples.runtimeconfig.json
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/bin/Debug/net5.0/SomaSimples.runtimeconfig.dev.json
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/bin/Debug/net5.0/SomaSimples.dll
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/bin/Debug/net5.0/ref/SomaSimples.dll
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/bin/Debug/net5.0/SomaSimples.pdb
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/SomaSimples.csproj.AssemblyReference.cache
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/SomaSimples.AssemblyInfoInputs.cache
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/SomaSimples.AssemblyInfo.cs
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/SomaSimples.csproj.CoreCompileInputs.cache
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/SomaSimples.dll
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/ref/SomaSimples.dll
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/SomaSimples.pdb
+/home/lucaxfelis/decola-tech/primeiros-desafios-matematicos-csharp/SomaSimples/obj/Debug/net5.0/SomaSimples.genruntimeconfig.cache
