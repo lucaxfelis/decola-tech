@@ -12,4 +12,4 @@ Repositório para material de estudos desenvolvidos durante o bootcamp Decola Te
 
 * [Primeiros desafios Matemáticos em C#](./primeiros-desafios-matematicos-csharp)
 * [Introdução a Resolução de Desafios com C#](./intro-resolucao-desafios-csharp)
-* [Desafios númericos em C#](./desafios-numericos-csharp)
+* [Desafios numéricos em C#](./desafios-numericos-csharp)
