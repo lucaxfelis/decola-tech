@@ -16,3 +16,4 @@ Repositório para material de estudos desenvolvidos durante o bootcamp Decola Te
 ## Desafios de Projeto 🖥️
 
 * [Criando um APP simples de cadastro de séries em .NET](./app-simples-cadastro-series-dotnet)
+* [Criando um catálogo de jogos usando boas práticas de arquitetura com .NET](./catalogo-jogos-arquitetura-dotnet)
