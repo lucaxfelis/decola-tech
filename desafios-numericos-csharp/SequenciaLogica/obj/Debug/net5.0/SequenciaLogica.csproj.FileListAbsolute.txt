@@ -1,0 +1,16 @@
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/bin/Debug/net5.0/SequenciaLogica
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/bin/Debug/net5.0/SequenciaLogica.deps.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/bin/Debug/net5.0/SequenciaLogica.runtimeconfig.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/bin/Debug/net5.0/SequenciaLogica.runtimeconfig.dev.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/bin/Debug/net5.0/SequenciaLogica.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/bin/Debug/net5.0/ref/SequenciaLogica.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/bin/Debug/net5.0/SequenciaLogica.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/SequenciaLogica.csproj.AssemblyReference.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/SequenciaLogica.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/SequenciaLogica.AssemblyInfoInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/SequenciaLogica.AssemblyInfo.cs
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/SequenciaLogica.csproj.CoreCompileInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/SequenciaLogica.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/ref/SequenciaLogica.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/SequenciaLogica.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/SequenciaLogica/obj/Debug/net5.0/SequenciaLogica.genruntimeconfig.cache
