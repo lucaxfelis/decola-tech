@@ -9,8 +9,8 @@ Neste projeto foram vistos alguns conceitos como: pensar orientado a objetos; al
 
 Algumas melhorias e refatorações podem ocorrer nesse projeto:
 
-[ ] Gerenciamento de filmes
-[ ] Menu melhor utilizável
-[ ] Tratamento de erros
-[ ] Armazenamento em arquivo texto
-[ ] Armazenamento em banco de dados
+- [ ] Gerenciamento de filmes
+- [ ] Menu melhor utilizável
+- [ ] Tratamento de erros
+- [ ] Armazenamento em arquivo texto
+- [ ] Armazenamento em banco de dados
