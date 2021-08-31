@@ -2,7 +2,7 @@
 
 ## Objetivo ☑️
 
-Criar um CRUD simplificado para o gerenciamento de séries com o intiuito de praticar os conhecimentos adquiridos sobre programação orientada a objetos (PPO) utilizando C# e .NET.<br>
+Criar um CRUD simplificado para o gerenciamento de séries com o intiuito de praticar os conhecimentos adquiridos sobre programação orientada a objetos (PPO) utilizando C# e .NET.<br><br>
 Neste projeto foram vistos alguns conceitos como: pensar orientado a objetos; algumas estruturas relacionadas a POO; modelar o seu domínio; e utilizar recursos de coleção para salvar os dados em memória. O projeto foi elaborado pelo expert [Eliézer Zarpelão](https://www.linkedin.com/in/eliezerzarpelao/), sendo disponibilizado na plataforma da Digital Innovation One, sob o nome de Criando um APP simples de cadastro de séries em .NET.
 
 ## Implementações extras ⬆️
