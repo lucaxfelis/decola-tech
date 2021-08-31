@@ -1,0 +1,16 @@
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/bin/Debug/net5.0/OMaior
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/bin/Debug/net5.0/OMaior.deps.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/bin/Debug/net5.0/OMaior.runtimeconfig.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/bin/Debug/net5.0/OMaior.runtimeconfig.dev.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/bin/Debug/net5.0/OMaior.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/bin/Debug/net5.0/ref/OMaior.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/bin/Debug/net5.0/OMaior.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/OMaior.csproj.AssemblyReference.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/OMaior.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/OMaior.AssemblyInfoInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/OMaior.AssemblyInfo.cs
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/OMaior.csproj.CoreCompileInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/OMaior.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/ref/OMaior.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/OMaior.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/OMaior/obj/Debug/net5.0/OMaior.genruntimeconfig.cache

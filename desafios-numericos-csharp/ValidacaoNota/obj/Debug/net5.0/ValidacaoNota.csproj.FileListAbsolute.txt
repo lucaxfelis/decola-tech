@@ -1,0 +1,16 @@
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/bin/Debug/net5.0/ValidacaoNota
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/bin/Debug/net5.0/ValidacaoNota.deps.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/bin/Debug/net5.0/ValidacaoNota.runtimeconfig.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/bin/Debug/net5.0/ValidacaoNota.runtimeconfig.dev.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/bin/Debug/net5.0/ValidacaoNota.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/bin/Debug/net5.0/ref/ValidacaoNota.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/bin/Debug/net5.0/ValidacaoNota.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ValidacaoNota.csproj.AssemblyReference.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ValidacaoNota.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ValidacaoNota.AssemblyInfoInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ValidacaoNota.AssemblyInfo.cs
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ValidacaoNota.csproj.CoreCompileInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ValidacaoNota.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ref/ValidacaoNota.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ValidacaoNota.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/ValidacaoNota/obj/Debug/net5.0/ValidacaoNota.genruntimeconfig.cache

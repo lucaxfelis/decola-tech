@@ -1,0 +1,16 @@
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/bin/Debug/net5.0/TipoCombustivel
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/bin/Debug/net5.0/TipoCombustivel.deps.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/bin/Debug/net5.0/TipoCombustivel.runtimeconfig.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/bin/Debug/net5.0/TipoCombustivel.runtimeconfig.dev.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/bin/Debug/net5.0/TipoCombustivel.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/bin/Debug/net5.0/ref/TipoCombustivel.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/bin/Debug/net5.0/TipoCombustivel.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/TipoCombustivel.csproj.AssemblyReference.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/TipoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/TipoCombustivel.AssemblyInfoInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/TipoCombustivel.AssemblyInfo.cs
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/TipoCombustivel.csproj.CoreCompileInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/TipoCombustivel.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/ref/TipoCombustivel.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/TipoCombustivel.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TipoCombustivel/obj/Debug/net5.0/TipoCombustivel.genruntimeconfig.cache

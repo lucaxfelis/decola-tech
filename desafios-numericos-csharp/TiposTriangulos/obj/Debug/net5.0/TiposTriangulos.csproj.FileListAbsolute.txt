@@ -1,0 +1,16 @@
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/bin/Debug/net5.0/TiposTriangulos
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/bin/Debug/net5.0/TiposTriangulos.deps.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/bin/Debug/net5.0/TiposTriangulos.runtimeconfig.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/bin/Debug/net5.0/TiposTriangulos.runtimeconfig.dev.json
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/bin/Debug/net5.0/TiposTriangulos.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/bin/Debug/net5.0/ref/TiposTriangulos.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/bin/Debug/net5.0/TiposTriangulos.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/TiposTriangulos.csproj.AssemblyReference.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/TiposTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/TiposTriangulos.AssemblyInfoInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/TiposTriangulos.AssemblyInfo.cs
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/TiposTriangulos.csproj.CoreCompileInputs.cache
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/TiposTriangulos.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/ref/TiposTriangulos.dll
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/TiposTriangulos.pdb
+/home/lucaxfelis/decola-tech/desafios-numericos-csharp/TiposTriangulos/obj/Debug/net5.0/TiposTriangulos.genruntimeconfig.cache
