@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace AppCadastroSeries
+namespace AppCadastroMidias
 {
     public class Serie : EntidadeBase
     {
@@ -11,7 +11,7 @@ namespace AppCadastroSeries
         private string Descricao { get; set; }
         private int Ano { get; set; }
 
-        private bool Excluido { get; set;}
+        private bool Excluido { get; set; }
 
         // Métodos da classe Serie
         public Serie(int id, Genero genero, string titulo, string descricao, int ano)

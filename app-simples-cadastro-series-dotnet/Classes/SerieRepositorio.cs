@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using AppCadastroSeries.Interfaces;
 
-namespace AppCadastroSeries
+namespace AppCadastroMidias
 {
     public class SerieRepositorio : IRepositorio<Serie>
     {

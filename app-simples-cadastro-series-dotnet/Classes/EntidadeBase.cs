@@ -1,4 +1,4 @@
-namespace AppCadastroSeries
+namespace AppCadastroMidias
 {
     // classe base abstrata
     public abstract class EntidadeBase

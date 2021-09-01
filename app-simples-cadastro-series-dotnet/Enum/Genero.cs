@@ -1,4 +1,4 @@
-namespace AppCadastroSeries
+namespace AppCadastroMidias
 {
     public enum Genero
     {
