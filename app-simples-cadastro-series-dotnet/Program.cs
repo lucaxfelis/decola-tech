@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AppCadastroSeries
+namespace AppCadastroMidias
 {
     class Program
     {
