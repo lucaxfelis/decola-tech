@@ -16,3 +16,4 @@ Algumas melhorias e refatorações podem ocorrer nesse projeto:
 - [ ] Armazenamento em arquivo texto
 - [ ] Armazenamento em banco de dados
 - [ ] Otimizar a arquitetura do projeto 
+- [ ] Criar Domain Storytelling
