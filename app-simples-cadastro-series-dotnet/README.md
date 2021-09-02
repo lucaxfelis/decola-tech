@@ -9,6 +9,7 @@ Neste projeto foram vistos alguns conceitos como: pensar orientado a objetos; al
 
 Algumas melhorias e refatorações podem ocorrer nesse projeto:
 
+- [x] Utilização de StringBuilder na sobrescrita do método ToString (é uma boa prática, pois diminui bastante a complexidade do método)
 - [x] Gerenciamento de filmes (Projeto renomeado para Gerenciamento de Mídias Visuais e adição de módulo de filmes)
 - [ ] Menu melhor utilizável
 - [ ] Tratamento de erros
