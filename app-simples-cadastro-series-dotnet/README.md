@@ -14,3 +14,4 @@ Algumas melhorias e refatorações podem ocorrer nesse projeto:
 - [ ] Tratamento de erros
 - [ ] Armazenamento em arquivo texto
 - [ ] Armazenamento em banco de dados
+- [ ] Otimizar a arquitetura do projeto 
