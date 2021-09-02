@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace AppCadastroSeries.Interfaces
+namespace AppCadastroMidias.Interfaces
 {
     public interface IRepositorio<T>
     {

@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using AppCadastroSeries.Interfaces;
+using AppCadastroMidias.Interfaces;
 
 namespace AppCadastroMidias
 {
