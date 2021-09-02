@@ -9,7 +9,7 @@ Neste projeto foram vistos alguns conceitos como: pensar orientado a objetos; al
 
 Algumas melhorias e refatorações podem ocorrer nesse projeto:
 
-- [ ] Gerenciamento de filmes
+- [x] Gerenciamento de filmes (Projeto renomeado para Gerenciamento de Mídias Visuais e adição de módulo de filmes)
 - [ ] Menu melhor utilizável
 - [ ] Tratamento de erros
 - [ ] Armazenamento em arquivo texto
