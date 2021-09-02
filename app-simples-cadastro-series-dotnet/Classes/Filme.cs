@@ -33,7 +33,7 @@ namespace AppCadastroMidias
             var duracao = TimeSpan.FromMinutes(this.Duracao);
             string sDuracao = String.Format("Duração: {0}h {1:00}min", 
                                             (int)duracao.TotalHours,
-                                            duracao.TotalMinutes);
+                                            duracao.Minutes);
 
             StringBuilder stringBuilder = new StringBuilder();
             stringBuilder.Append("Gênero: " + this.Genero + Environment.NewLine);
@@ -43,7 +43,7 @@ namespace AppCadastroMidias
             stringBuilder.Append("Nota: " + this.Nota + Environment.NewLine);
             stringBuilder.Append(sDuracao + Environment.NewLine);
             stringBuilder.Append("Excluído da base: " + (this.Excluido ? "Sim" : "Não"));               
-            return "something";
+            return stringBuilder.ToString();
         }
 
         public string retornaTitulo()
