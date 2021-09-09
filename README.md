@@ -17,3 +17,8 @@ Repositório para material de estudos desenvolvidos durante o bootcamp Decola Te
 
 * [Criando um APP simples de cadastro de séries em .NET](./app-simples-cadastro-series-dotnet)
 * [Criando um catálogo de jogos usando boas práticas de arquitetura com .NET](./catalogo-jogos-arquitetura-dotnet)
+
+## Mentorias 🧑‍🏫
+
+* [Criando um domínio utilizando os pilares da orientação a objetos](./criando-dominio-orientacao-objetos)
+* [Criando uma API REST Simples com .NET Core](./criando-api-rest-dotnet-core)
