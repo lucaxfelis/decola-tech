@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using ApiCatalogoJogos.InputModel;
 using ApiCatalogoJogos.ViewModel;
 using ApiCatalogoJogos.Services;
+using ApiCatalogoJogos.Exceptions;
 
 namespace ApiCatalogoJogos.Controllers.V1
 {
