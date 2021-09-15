@@ -1,5 +1,7 @@
 # Criando um domínio utilizando os pilares da orientação a objetos
 
+A mentoria foi ministrada pelo expert [Carla Frascareli](https://www.linkedin.com/in/carla-frascareli-6bb77321/), sendo disponibilizada na plataforma da Digital Innovation One, sob o nome de Criando um domínio utilizando os pilares da orientação a objetos.
+
 ## Objetivo ☑️
 
 Observar os pilares da orientação a objetos (abstração, encapsulamento, herança e polimorfismo) interpretando e implementando um domínio de negócio “Agência bancária” utilizando o .NET Core.
