@@ -13,3 +13,5 @@ Neste projeto foram vistos alguns conceitos como: requisições web, arquitetura
 ## Implementações extras ⬆️
 
 Algumas melhorias e refatorações podem ocorrer nesse projeto:
+
+- [ ] Fazer o deploy da API no Azure
