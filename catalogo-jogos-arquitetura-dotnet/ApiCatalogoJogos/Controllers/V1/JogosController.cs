@@ -10,7 +10,7 @@ using ApiCatalogoJogos.ViewModel;
 using ApiCatalogoJogos.Services;
 using ApiCatalogoJogos.Exceptions;
 
-namespace ExemploApiCatalogoJogos.Controllers.V1
+namespace ApiCatalogoJogos.Controllers.V1
 {
     [Route("api/v1/[controller]")]
     [ApiController]
