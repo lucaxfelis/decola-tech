@@ -1,0 +1,10 @@
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.AssemblyReference.cache
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/lucaxfelis/decola-tech/criando-api-rest-dotnet-core/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb

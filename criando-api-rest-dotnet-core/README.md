@@ -1,1 +1,3 @@
-# Criando uma API REST Simples com .NET Core
+```
+dotnet run --project .\DIO.Series.Web\DIO.Series.Web.csproj --urls https://localhost:44322
+```
