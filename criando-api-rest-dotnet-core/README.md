@@ -1,7 +1,7 @@
 
 # Criando uma API REST Simples com .NET Core
 
-A mentoria foi ministrada pelo expert [Victor Fructuoso](https://www.linkedin.com/in/victorfructuoso/), sendo disponibilizado na plataforma da Digital Innovation One, sob o nome de Criando uma API REST Simples com .NET Core.
+A mentoria foi ministrada pelo expert [Victor Fructuoso](https://www.linkedin.com/in/victorfructuoso/), sendo disponibilizada na plataforma da Digital Innovation One, sob o nome de Criando uma API REST Simples com .NET Core.
 
 ## Objetivo ☑️
 
